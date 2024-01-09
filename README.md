@@ -1,0 +1,5 @@
+![blog1](https://github.com/kathleenforgiarini/django_blog/assets/82175930/811bd6f9-0984-4353-beb6-0c7714d752bb)
+![blog2](https://github.com/kathleenforgiarini/django_blog/assets/82175930/53723385-8638-432a-bbd1-be9f4ff329fb)
+![blog3](https://github.com/kathleenforgiarini/django_blog/assets/82175930/e331fa43-3188-4afa-90b9-e51e4e8d1b5e)
+![blog4](https://github.com/kathleenforgiarini/django_blog/assets/82175930/5b46c73c-0d5f-457c-909b-22c3d0ffc67b)
+![blog5](https://github.com/kathleenforgiarini/django_blog/assets/82175930/abb989ff-234c-4871-a685-1cd1d612ba4c)
